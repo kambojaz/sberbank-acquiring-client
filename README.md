@@ -2,6 +2,8 @@
 
 PHP client for [Sberbank's acquiring](http://data.sberbank.ru/en/s_m_business/bankingservice/equairing/) REST API.
 
+kmbjz
+
 ## Installation
 
 ```sh
